@@ -1,8 +1,24 @@
-# React + Vite
+# 📝 Post Sharing App (React + Bootstrap)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple post sharing web application built using **React JS** and **Bootstrap**.  
+Users can **create posts** and **view all posts** instantly.  
+The UI is fully responsive and user-friendly.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- 🖊️ Create new posts
+- 📄 View all posts
+- 📱 Responsive layout using Bootstrap
+- ⚡ Real-time updates (no page reload)
+
+- ## 🧑‍💻 Tech Stack
+
+- **React JS**
+- **Bootstrap 5**
+- HTML / CSS / JavaScript
+
+ 🌐 Live Demo
+ link :- "https://AslamKhanpathan142.github.io/post-sharing-app-react-bootstrap"
+
